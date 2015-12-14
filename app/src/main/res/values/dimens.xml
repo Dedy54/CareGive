@@ -1,0 +1,43 @@
+<resources>
+    
+    <dimen name="tabsHeight">48dp</dimen>
+    
+    <dimen name="parallax_image_height">180dp</dimen>
+    <dimen name="actions_textsize">14sp</dimen>
+    <dimen name="actions_padding_button">16dp</dimen>
+    
+    <dimen name="card_default_native_margin_top">12dp</dimen>
+    <dimen name="card_default_native_margin_bottom">12dp</dimen>
+    <dimen name="card_default_native_margin_left">8dp</dimen>
+    <dimen name="card_default_native_margin_right">8dp</dimen>
+    
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="pad_5dp">5dp</dimen>
+	<dimen name="pad_10dp">10dp</dimen>
+	<dimen name="pad_15dp">15dp</dimen>
+	<dimen name="pad_20dp">20dp</dimen>
+	<dimen name="pad_30dp">30dp</dimen>
+	<dimen name="pad_chat_item">45dp</dimen>
+	<dimen name="pad_chat_item1">10dp</dimen>
+	
+	<dimen name="txt_7sp">7sp</dimen>
+	<dimen name="txt_12sp">12sp</dimen>
+	<dimen name="txt_13sp">13sp</dimen>
+	<dimen name="txt_14sp">14sp</dimen>
+	<dimen name="txt_15sp">15sp</dimen>
+	<dimen name="txt_16sp">16sp</dimen>
+	<dimen name="txt_18sp">18sp</dimen>
+	<dimen name="txt_20sp">20sp</dimen>
+	
+	<dimen name="detail_backdrop_height">150dp</dimen>
+	<dimen name="card_margin">16dp</dimen>
+	<dimen name="fab_margin">16dp</dimen>
+	
+	<dimen name="actions_padding">16dp</dimen>
+	<dimen name="actions_padding_left">8dp</dimen>
+    <dimen name="actions_icon_height">54dp</dimen>
+    <dimen name="actions_icon_width">54dp</dimen>
+    
+</resources>

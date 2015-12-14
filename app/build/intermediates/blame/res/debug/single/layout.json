@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/item_alarm_open.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/item_alarm_open.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_profile_setting.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_profile_setting.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_opensource.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryAbout/unspecified/res/layout/fragment_opensource.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/activity_sample_dark_toolbar.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/activity_sample_dark_toolbar.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_toggle.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_toggle.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_slider.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_slider.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_mini.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_mini.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_primary.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_primary.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_settings.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/item_profile.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/item_profile.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/item_timeline.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/item_timeline.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_settings_profile.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_settings_profile.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_catatan.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_catatan.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/activity_signup.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/mdtp_year_label_text_view.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/layout/mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_beranda.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_beranda.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_switch.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_switch.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/add_activity.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/add_activity.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_divider.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_divider.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_dialog.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/layout/mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_secondary.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/crossfader_base.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryCrossFader/unspecified/res/layout/crossfader_base.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_header_view.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/layout/mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_header.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_header.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/item_riwayat_kesehatan.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/item_riwayat_kesehatan.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_compact_header.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_compact_header.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/includedonebutton.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/includedonebutton.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_profile.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_profile.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/item_news.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/item_news.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_recycler_view.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/materialize.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialize/unspecified/res/layout/materialize.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_beranda_timeline.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_beranda_timeline.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/activity_profile_detail.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/activity_profile_detail.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_riwayat_kesehatan.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_riwayat_kesehatan.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary_toggle.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_secondary_toggle.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/activity_opensource.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryAbout/unspecified/res/layout/activity_opensource.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/listheader_opensource.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryAbout/unspecified/res/layout/listheader_opensource.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_notifikasi_anda.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_notifikasi_anda.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_container.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_container.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_beranda_news.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_beranda_news.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/mdtp_done_button.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/layout/mdtp_done_button.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_settings_orangtua.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_settings_orangtua.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/mdtp_time_header_label.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/layout/mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/mdtp_time_picker_dialog.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/layout/mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/activity_detail.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_notifikasi_orang_tua.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_notifikasi_orang_tua.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_notifikasi.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_notifikasi.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_selected_date.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/layout/mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary_switch.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_secondary_switch.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_mini_profile.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_mini_profile.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/listitem_opensource.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryAbout/unspecified/res/layout/listitem_opensource.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/activity_chart.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/activity_chart.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/mdtp_date_picker_view_animator.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/layout/mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/fragment_informasi.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/layout/fragment_informasi.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/material_drawer_item_section.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/res/layout/material_drawer_item_section.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/libraryMaterialDateTimePicker/build/intermediates/res/merged/release/layout-land/mdtp_date_picker_dialog.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/libraryMaterialDateTimePicker/src/main/res/layout-land/mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/libraryMaterialDateTimePicker/build/intermediates/res/merged/release/layout-land/mdtp_time_picker_dialog.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/libraryMaterialDateTimePicker/src/main/res/layout-land/mdtp_time_picker_dialog.xml"
+    }
+]

@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/values-iw/values-iw.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 103,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 103,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 109,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 109,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 125,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 125,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 98,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 98,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 107,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 107,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 83,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endColumn": 83,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 99,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 860,
+                        "endColumn": 99,
+                        "endOffset": 955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 113,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 960,
+                        "endColumn": 113,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 77,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1074,
+                        "endColumn": 77,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 77,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 77,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endColumn": 78,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 78,
+                        "endOffset": 1304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 101,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1309,
+                        "endColumn": 101,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1287,
+                    "endColumn": 103,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 103,
+                        "endOffset": 1510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1391,
+                    "endColumn": 95,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1515,
+                        "endColumn": 95,
+                        "endOffset": 1606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 102,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1611,
+                        "endColumn": 102,
+                        "endOffset": 1709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1590,
+                    "endColumn": 100,
+                    "endOffset": 1686
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1714,
+                        "endColumn": 100,
+                        "endOffset": 1810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1691,
+                    "endColumn": 99,
+                    "endOffset": 1786
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1815,
+                        "endColumn": 99,
+                        "endOffset": 1910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1791,
+                    "endColumn": 115,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1915,
+                        "endColumn": 115,
+                        "endOffset": 2026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endColumn": 95,
+                    "endOffset": 1998
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2031,
+                        "endColumn": 95,
+                        "endOffset": 2122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2003,
+                    "endColumn": 113,
+                    "endOffset": 2112
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 113,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2117,
+                    "endColumn": 108,
+                    "endOffset": 2221
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 108,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2226,
+                    "endColumn": 78,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 78,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 103,
+                    "endOffset": 2404
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 103,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2409,
+                    "endColumn": 114,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 114,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2524,
+                    "endColumn": 105,
+                    "endOffset": 2625
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 105,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2630,
+                    "endColumn": 87,
+                    "endOffset": 2713
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 87,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2718,
+                    "endColumn": 84,
+                    "endOffset": 2798
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 84,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2803,
+                    "endColumn": 86,
+                    "endOffset": 2885
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 86,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2890,
+                    "endColumn": 82,
+                    "endOffset": 2968
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 82,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2973,
+                    "endColumn": 97,
+                    "endOffset": 3066
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endColumn": 97,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3071,
+                    "endColumn": 102,
+                    "endOffset": 3169
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2127,
+                        "endColumn": 102,
+                        "endOffset": 2225
+                    }
+                }
+            }
+        ]
+    }
+]

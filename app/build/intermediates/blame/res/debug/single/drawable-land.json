@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/drawable-land/mdtp_done_background_color.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/drawable-land/mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/drawable-land/mdtp_done_background_color_dark.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/drawable-land/mdtp_done_background_color_dark.xml"
+    }
+]

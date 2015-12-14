@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="card_native_actions">
+        <item name="android:textSize">@dimen/actions_textsize</item>
+        <item name="android:padding">@dimen/actions_padding_button</item>
+    </style>
+    
+    <style name="card_external">
+        <item name="android:layout_marginTop">@dimen/card_default_native_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_default_native_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/card_default_native_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_default_native_margin_right</item>
+    </style>
+    
+    <style name="CustomTheme" parent="MaterialDrawerTheme.TranslucentStatus">
+        <!-- ...and here we setting appcompat’s color theme attrs -->
+        <item name="colorPrimary">#F1433C</item>
+        <item name="colorPrimaryDark">#D03033</item>
+        <item name="colorAccent">#02A8F3</item>
+
+        <!-- MaterialDrawer specific values -->
+        <item name="material_drawer_background">@color/material_drawer_dark_background</item>
+        <item name="material_drawer_primary_text">@color/material_drawer_dark_primary_text</item>
+        <item name="material_drawer_secondary_text">@color/material_drawer_dark_secondary_text
+        </item>
+        <item name="material_drawer_hint_text">@color/material_drawer_dark_hint_text</item>
+        <item name="material_drawer_divider">@color/material_drawer_dark_divider</item>
+        <item name="material_drawer_selected">@color/material_drawer_dark_selected</item>
+        <item name="material_drawer_selected_text">#F1433C</item>
+        <item name="material_drawer_header_selection_text">
+            @color/material_drawer_dark_primary_text
+        </item>
+
+        <!-- CAB :D -->
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+    <!--
+    Overwrite the Style of the BezelImageView for the whole MaterialDrawer
+    <style name="BezelImageView">
+        <item name="biv_maskDrawable">@drawable/material_drawer_square_mask</item>
+        <item name="biv_drawCircularShadow">false</item>
+        <item name="biv_selectorOnPress">@color/material_drawer_primary</item>
+    </style>
+    -->
+
+    <style name="FullscreenTheme" parent="MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus"></style>
+
+	<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/md_indigo_500</item>
+        <item name="colorPrimaryDark">@color/md_indigo_700</item>
+        <item name="colorAccent">@color/md_pink_A200</item>
+        <item name="colorControlHighlight">@color/md_indigo_500_25</item>​
+        <item name="colorControlNormal">@color/md_black_1000_50</item>
+        <item name="colorSwitchThumbNormal">@color/md_grey_200</item>
+        <item name="android:colorForeground">@color/white</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeBackground">@color/md_indigo_500</item>
+
+        <!-- Navigation Drawer Arrow Style. -->
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+
+        <!-- Overflow Button Style. -->
+        <item name="actionOverflowButtonStyle">@style/OverflowStyle</item>
+    </style>
+    
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="OverflowStyle" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_navigation_more_vert</item>
+    </style>
+    
+    <style name="editext_graybg" parent="android:Widget.EditText">
+          <item name="android:background">@drawable/editext_bg_gray</item>
+          <item name="android:drawablePadding">@dimen/pad_10dp</item>
+          <item name="android:ems">10</item>
+          <item name="android:inputType">textEmailAddress</item>
+          <item name="android:paddingLeft">@dimen/pad_10dp</item>
+          <item name="android:paddingRight">@dimen/pad_10dp</item>
+          <item name="android:textSize">@dimen/txt_16sp</item>
+     </style>
+     
+    <style name="btn_white_large" parent="@style/btn">
+          <item name="android:background">@drawable/green_btn</item>
+          <item name="android:textColor">@color/white</item>
+          <item name="android:textSize">@dimen/txt_18sp</item>
+     </style>
+     
+    <style name="btn" parent="android:Widget.Holo.Light.Button">
+        <item name="android:minHeight">1dp</item>
+        <item name="android:minWidth">1dp</item>
+    </style>
+    
+    <style name="Widget.CardContent" parent="android:Widget">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">24dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryAbout/build/intermediates/res/merged/debug/drawable-v21/button_rect_normal.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryAbout/src/main/res/drawable-v21/button_rect_normal.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryAbout/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryAbout/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryAbout/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryAbout/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

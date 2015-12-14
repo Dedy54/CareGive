@@ -1,0 +1,152 @@
+[
+    {
+        "outputFile": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryMaterialize/build/intermediates/res/merged/release/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryMaterialize/src/main/res/values-v19/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 84,
+                        "endColumn": 51,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryMaterialize/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryMaterialize/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryMaterialize/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryMaterialize/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryMaterialize/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/mikeLibraryMaterialize/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 222
+                    }
+                }
+            }
+        ]
+    }
+]

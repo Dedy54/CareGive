@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/detail_backdrop_height"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:fitsSystemWindows="true">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            android:fitsSystemWindows="true"
+            app:expandedTitleMarginStart="48dp"
+            app:expandedTitleMarginEnd="64dp">
+
+            <ImageView
+                android:id="@+id/imageViewImageImageDetail"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:fitsSystemWindows="true"
+                app:layout_collapseMode="parallax"
+                android:src="@drawable/header"
+                 />
+
+            <android.support.v7.widget.Toolbar
+                xmlns:android="http://schemas.android.com/apk/res/android"
+	            android:id="@+id/toolbar"
+	            android:layout_width="match_parent"
+	            android:layout_height="?attr/actionBarSize"
+	            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                app:layout_collapseMode="pin"/>
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:scrollbars="vertical">
+
+					<RelativeLayout
+					    android:layout_width="fill_parent"
+					    android:layout_height="fill_parent"
+					    android:paddingRight="24dp"
+	                    android:paddingLeft="24dp"
+	                    android:paddingTop="24dp"
+	                    android:paddingBottom="8dp" >
+					
+					    <Button
+				            android:id="@+id/time_button"
+				            android:layout_width="wrap_content"
+				            android:layout_height="wrap_content"
+				            android:text="@string/pick_time"
+				            android:textSize="64dp"
+				            android:textColor="@color/md_pink_400"
+				            android:layout_alignParentLeft="true"
+        					android:layout_alignParentBottom="true"
+				            android:background="@null"/>
+					
+					    <ImageView
+					    	android:layout_width="wrap_content"
+					        android:layout_height="wrap_content"
+					        android:layout_alignParentRight="true"
+        					android:layout_alignParentBottom="true"
+        					android:paddingBottom="16dp"
+					        android:id="@+id/pic_sampah"
+					        android:clickable="true"
+					        android:scaleType="fitXY"
+					        android:src="@drawable/ic_home"/>
+					
+					</RelativeLayout>
+	                
+	                <RadioGroup
+				        android:id="@+id/fancy_radio_group"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_centerHorizontal="true" 
+				        android:paddingRight="24dp"
+	                    android:paddingLeft="24dp"
+	                    android:paddingBottom="8dp"
+				        android:weightSum="7"
+				        android:orientation="horizontal"
+				        android:layout_below="@+id/title">
+				        
+				        <RadioButton 
+				            android:layout_width="32dp"
+				    		android:layout_height="32dp"
+				   			android:button="@null"
+				   			android:background="@drawable/radio_states_yellow"
+				   			android:text="S"
+				   			android:textSize="16dp"
+				   			android:layout_marginRight="8dp"
+				   			android:textColor="@drawable/radio_text"
+				   			android:gravity="center"/>
+				        
+				        <RadioButton 
+				            android:layout_width="32dp"
+				    		android:layout_height="32dp"
+				    		android:background="@drawable/radio_states_yellow"
+				   			android:button="@null"
+				   			android:textSize="16dp"
+				   			android:layout_marginRight="8dp"
+				   			android:textColor="@drawable/radio_text"
+				   			android:text="S"
+				   			android:gravity="center"/>
+				        
+				        <RadioButton 
+				            android:layout_width="32dp"
+				    		android:layout_height="32dp"
+				    		android:background="@drawable/radio_states_yellow"
+				   			android:button="@null"
+				   			android:textSize="16dp"
+				   			android:layout_marginRight="8dp"
+				   			android:textColor="@drawable/radio_text"
+				   			android:text="R"
+				    	    android:gravity="center"/>
+				        
+				        <RadioButton 
+				            android:layout_width="32dp"
+				    		android:layout_height="32dp"
+				   			android:button="@null"
+				   			android:background="@drawable/radio_states_yellow"
+				   			android:text="K"
+				   			android:textSize="16dp"
+				   			android:layout_marginRight="8dp"
+				   			android:textColor="@drawable/radio_text"
+				   			android:gravity="center"/>
+				        
+				        <RadioButton 
+				            android:layout_width="32dp"
+				    		android:layout_height="32dp"
+				    		android:background="@drawable/radio_states_yellow"
+				   			android:button="@null"
+				   			android:textSize="16dp"
+				   			android:layout_marginRight="8dp"
+				   			android:textColor="@drawable/radio_text"
+				   			android:text="J"
+				   			android:gravity="center"/>
+				        
+				        <RadioButton 
+				            android:layout_width="32dp"
+				    		android:layout_height="32dp"
+				    		android:background="@drawable/radio_states_yellow"
+				   			android:button="@null"
+				   			android:textSize="16dp"
+				   			android:layout_marginRight="8dp"
+				   			android:textColor="@drawable/radio_text"
+				   			android:text="S"
+				    	    android:gravity="center"/>
+				        
+				        <RadioButton 
+				            android:layout_width="32dp"
+				    		android:layout_height="32dp"
+				    		android:background="@drawable/radio_states_yellow"
+				   			android:button="@null"
+				   			android:textSize="16dp"
+				   			android:layout_marginRight="8dp"
+				   			android:textColor="@drawable/radio_text"
+				   			android:text="M"
+				    	    android:gravity="center"/>
+			   
+			   		</RadioGroup>
+			   		    
+                        <android.support.design.widget.TextInputLayout
+					        android:id="@+id/lNoteLayout"
+					        android:layout_width="match_parent"
+					        android:layout_height="match_parent"
+					        android:paddingRight="24dp"
+	                    	android:paddingLeft="24dp"
+	                    	android:paddingTop="8dp"
+	                    	android:paddingBottom="8dp">
+					
+					        <EditText
+					            android:id="@+id/lNote"
+					            android:layout_width="match_parent"
+					            android:layout_height="match_parent"
+					            android:ems="10"
+					            android:hint="Note"/>
+				    	</android.support.design.widget.TextInputLayout>
+				    	
+            </LinearLayout>
+        </FrameLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/fabButton"
+        app:layout_anchor="@id/appbar"
+        app:fabSize="normal"
+        app:borderWidth="0dp"
+        app:layout_anchorGravity="bottom|right|end"
+        android:src="@drawable/ic_home"
+        android:paddingRight="24sp"
+        android:layout_margin="@dimen/fab_margin"
+        android:clickable="true"/>
+
+</android.support.design.widget.CoordinatorLayout>

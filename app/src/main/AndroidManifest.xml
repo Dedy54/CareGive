@@ -1,0 +1,87 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.parallaxstudios.caregiver"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <application
+        android:name=".CustomApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name">
+        <!-- android:supportsRtl="true" -->
+        <activity
+            android:name=".DrawerActivity"
+            android:label="@string/app_name"
+            android:theme="@style/MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.parallaxstudios.caregiver.activity.AddActivity"
+            android:theme="@style/MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus"
+            android:label="Add Activity"
+            android:value="com.parallaxstudios.caregiver.activity.AddActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.parallaxstudios.caregiver.DrawerActivity" />
+        </activity>
+        <activity
+            android:name="Register"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.parallaxstudios.caregiver.activity.DetailActivity"
+            android:theme="@style/MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus"
+            android:label="@string/title_activity_news_detail" 
+            android:value="com.parallaxstudios.caregiver.activity.DetailActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.parallaxstudios.caregiver.DrawerActivity" />
+        </activity>
+        <activity
+            android:name="com.parallaxstudios.caregiver.activity.DetailProfileActivity"
+            android:theme="@style/MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus"
+            android:label="@string/title_activity_news_detail" 
+            android:value="com.parallaxstudios.caregiver.activity.DetailProfileActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.parallaxstudios.caregiver.DrawerActivity" />
+        </activity>
+        
+        <activity
+            android:name="com.parallaxstudios.caregiver.activity.NewElderActivity"
+            android:theme="@style/MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus"
+            android:label="@string/title_activity_news_detail" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.parallaxstudios.caregiver.DrawerActivity" />
+        </activity>
+        
+        <activity
+            android:name="com.parallaxstudios.caregiver.activity.ChartActivity"
+            android:theme="@style/MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus"
+            android:label="@string/title_activity_news_detail"
+            android:value="com.parallaxstudios.caregiver.activity.ChartActivity" >
+            
+        </activity>
+        
+    </application>
+
+</manifest>

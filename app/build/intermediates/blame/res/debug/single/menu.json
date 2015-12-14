@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/menu/menu_news_detail.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/menu/menu_news_detail.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/menu/popupmain.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/menu/popupmain.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/menu/menu_chart.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/menu/menu_chart.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/menu/detailprofile.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/menu/detailprofile.xml"
+    },
+    {
+        "merged": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/src/main/res/menu/menu.xml"
+    }
+]

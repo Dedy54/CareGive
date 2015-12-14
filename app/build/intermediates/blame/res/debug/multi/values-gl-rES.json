@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/res/merged/debug/values-gl-rES/values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 111,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 111,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 107,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 107,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 122,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 122,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 111,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 111,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 107,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 107,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 84,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 84,
+                        "endOffset": 876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endColumn": 101,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 101,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 125,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 125,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 83,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 83,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 80,
+                    "endOffset": 1141
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endColumn": 80,
+                        "endOffset": 1269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1146,
+                    "endColumn": 81,
+                    "endOffset": 1223
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1274,
+                        "endColumn": 81,
+                        "endOffset": 1351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1228,
+                    "endColumn": 106,
+                    "endOffset": 1330
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1356,
+                        "endColumn": 106,
+                        "endOffset": 1458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1335,
+                    "endColumn": 108,
+                    "endOffset": 1439
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1463,
+                        "endColumn": 108,
+                        "endOffset": 1567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1444,
+                    "endColumn": 98,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1572,
+                        "endColumn": 98,
+                        "endOffset": 1666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1543,
+                    "endColumn": 107,
+                    "endOffset": 1646
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1671,
+                        "endColumn": 107,
+                        "endOffset": 1774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1651,
+                    "endColumn": 102,
+                    "endOffset": 1749
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1779,
+                        "endColumn": 102,
+                        "endOffset": 1877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1754,
+                    "endColumn": 106,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1882,
+                        "endColumn": 106,
+                        "endOffset": 1984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 121,
+                    "endOffset": 1978
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1989,
+                        "endColumn": 121,
+                        "endOffset": 2106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1983,
+                    "endColumn": 99,
+                    "endOffset": 2078
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2111,
+                        "endColumn": 99,
+                        "endOffset": 2206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2083,
+                    "endColumn": 107,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 107,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endColumn": 114,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 114,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 79,
+                    "endOffset": 2381
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 79,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2386,
+                    "endColumn": 130,
+                    "endOffset": 2512
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 130,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2517,
+                    "endColumn": 123,
+                    "endOffset": 2636
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 123,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2641,
+                    "endColumn": 134,
+                    "endOffset": 2771
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 134,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2776,
+                    "endColumn": 95,
+                    "endOffset": 2867
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 95,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2872,
+                    "endColumn": 93,
+                    "endOffset": 2961
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 894,
+                        "endColumn": 93,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2966,
+                    "endColumn": 97,
+                    "endOffset": 3059
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endColumn": 97,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3064,
+                    "endColumn": 90,
+                    "endOffset": 3150
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1086,
+                        "endColumn": 90,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3155,
+                    "endColumn": 100,
+                    "endOffset": 3251
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1177,
+                        "endColumn": 100,
+                        "endOffset": 1273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3256,
+                    "endColumn": 100,
+                    "endOffset": 3352
+                },
+                "from": {
+                    "file": "/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-gl-rES/values-gl-rES.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2211,
+                        "endColumn": 100,
+                        "endOffset": 2307
+                    }
+                }
+            }
+        ]
+    }
+]

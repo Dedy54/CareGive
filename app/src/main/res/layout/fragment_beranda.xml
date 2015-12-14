@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/coordinator2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+    	android:id="@+id/appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus">
+                
+	    <RelativeLayout
+			android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    app:layout_scrollFlags="scroll|enterAlways">
+		
+		    <ImageView
+		    	android:id="@+id/icon"
+		        android:layout_width="54dp"
+		        android:layout_height="54dp"
+		        android:layout_alignParentStart="true"
+		        android:layout_marginStart="64dp"
+		        android:importantForAccessibility="no"
+		        android:src="@drawable/ic_contact_icon" />
+		
+		    <TextView
+		    	android:id="@+id/text1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignTop="@android:id/icon"
+		        android:layout_marginStart="14dp"
+		        android:layout_toEndOf="@+id/icon"
+		        android:text="Title"
+		        android:textColor="@android:color/white"
+		        android:textSize="24sp" />
+		
+		   <TextView
+		   		android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_alignStart="@+id/text1"
+		        android:layout_below="@+id/text1"
+		        android:text="SubTitel - Subtitle title"
+		        android:textColor="@android:color/white"
+		        android:textSize="12sp" />
+		
+		</RelativeLayout>
+		        
+		<com.parallaxstudios.caregiver.tabs.tabsUtils.SlidingTabLayout
+        	android:id="@+id/tabs"
+        	android:clipToPadding="false"
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:background="?colorPrimary" />
+		        
+	</android.support.design.widget.AppBarLayout>
+		        
+		<android.support.v4.view.ViewPager
+        	android:id="@+id/pager"
+        	android:layout_below="@+id/tabs"
+        	android:layout_width="match_parent"
+        	android:layout_height="match_parent"
+        	app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+		
+		<android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@drawable/ic_home"
+            app:borderWidth="0dp"
+            app:layout_behavior="com.parallaxstudios.caregiver.utill.fab.ScrollingFABBehavior"/>
+
+</android.support.design.widget.CoordinatorLayout>

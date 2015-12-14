@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryMaterialDateTimePicker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a3d3a5aad512823f14fd038af42fc62e4fb63943">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-libraryMaterialDateTimePicker-unspecified_acd7297cb8cb6406c4078673faec48d196dae278.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_d8009d06eefa8126cf53ff4b0ff8f866daec6b9a.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryOcticonsTypeface/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af5b582ca019c20f6f4b136451f34a517a0047b8">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-mikeLibraryOcticonsTypeface-unspecified_79ddeedf03e4410f7b2130d3f8ea5096471e1863.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_7e3238dd3c5773f3f18464f3bbdde3d099f9aed8.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_59a9be9531e8242474163564e2eec38dcf9752bd.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_809fa19bd8e9f6f02a0d27fda6d14219e42f23c8.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_d26a0ebdea7903a18c8dae35ef103ee3a7308d1b.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryObservableScrollView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67990a18cb0729198b7922def57056f88f34f587">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-libraryObservableScrollView-unspecified_a31dd474c301ea72d708ffa05a540d0ea87912f9.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/MaterialChartLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="05ab1287e0e0c3868daf756eb02749dc869d21f1">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-MaterialChartLibrary-unspecified_0979132287e0b08de8b4f4d7c4b076c8bbb9132c.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/libraryRippleEffect/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e849121a700ddaf2832bfdff78dd07f87d7c69a">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-libraryRippleEffect-unspecified_962df9b11a3e172bdad312c7321c132db5845b9e.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryAbout/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bb36215b614b20d1ee8b7f3354976729a1977dc3">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-mikeLibraryAbout-unspecified_e4cbf5db772830deb9367345f3b748068af2b5dc.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryFontawesome/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e04dad1f64f4958760ce272dff7be52056754e4f">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-mikeLibraryFontawesome-unspecified_bdc3859569be340b92a01b81c2d0f414e5e270c6.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialize/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b10aabacde8359f976a9a017f9565670fc790b94">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-mikeLibraryMaterialize-unspecified_e2f0d19cbd1c35693564dcdfc753b06da86aeb38.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/libs/picasso-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/picasso-2.2.0_1873475731ce63566a42f9295eccc6c291648e4d.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryGoogleMaterialTypeface/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1e866ec7db76ae2787376c608f56576accc226b">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-mikeLibraryGoogleMaterialTypeface-unspecified_8a40085ea1fabba5a3f21669d6facbce5c539289.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryCrossFader/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="201055535512f11be11de89a404876cda9bf37ca">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-mikeLibraryCrossFader-unspecified_c1a057d3dd4ca91acce4452f142bb4ca5b324ca5.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryMaterialDrawer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="26054ff078dcecf3216be623c871c8decfbb5e77">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-mikeLibraryMaterialDrawer-unspecified_a83f318efdceb11e157cc27ac3fe29bd221a4203.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_2ae87152ec0c62508212ecd952f3a4010c349dec.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_6d71dd4603d49cf0fce2a9f34420c5af2ccd54ba.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/libs/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/glide-3.6.1_a38e0c56300273c395a8b7fe98b8a5cbc90b076f.jar" />
+    </item>
+    <item
+        jar="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/exploded-aar/CareGive/mikeLibraryIconics/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e832625268f65f06e13a6e0a2f53d3c34ac66e62">
+        <dex dex="/Users/dedyyuristiawan/Documents/Workspace/CareGive/app/build/intermediates/pre-dexed/debug/CareGive-mikeLibraryIconics-unspecified_6f20011e05bff16ca88030742a7f322c102ddf3d.jar" />
+    </item>
+
+</items>
